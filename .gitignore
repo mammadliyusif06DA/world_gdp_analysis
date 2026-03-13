@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+data/*.csv
+data/*.xlsx
+
+# IDE / Editor
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+wheels/
+*.whl
+
+# Logs and coverage
+*.log
+*.coverage
+htmlcov/
+.coverage.*
+.pytest_cache/
+
+# AI / code assistant tools
+.abstra/
+.cursorignore
+.cursorindexingignore/
+.ruff_cache/
+
+# Documentation
+docs/_build/
+
+# Pyre / type checkers
+.pyre/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pytype/
+
+# Misc
+*.manifest
+*.spec
